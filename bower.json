@@ -1,0 +1,21 @@
+{
+  "name": "alexmtmorgan.github.io",
+  "homepage": "http://alexmtmorgan.github.io",
+  "authors": [
+    "alexmtmorgan <alexmtmorgan@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": ""
+  }
+}
