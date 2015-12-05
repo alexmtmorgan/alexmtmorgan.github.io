@@ -10,7 +10,7 @@
 # ignore bower added libraries...
 node_modules
 engine
-bower_components
+#bower_components
 
 # temporary files
 *~
